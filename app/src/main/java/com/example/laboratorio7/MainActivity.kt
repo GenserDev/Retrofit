@@ -1,5 +1,8 @@
 package com.example.laboratorio7
 
+//Plataformas Moviles Universidad del Valle de Guatemala
+//Laboratorio 7 y 8
+//Genser Catalan - 23401
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -12,6 +15,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.laboratorio7.ui.theme.Laboratorio7Theme
+
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
